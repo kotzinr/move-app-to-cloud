@@ -25,6 +25,9 @@
     "cors": "^2.8.5",
     "express": "^4.17.2",
     "faker": "^5.1.0",
+    "heroku": "^7.59.2",
     "lowdb": "^1.0.0"
-  }
+  },
+  "devDependencies": {},
+  "keywords": []
 }
